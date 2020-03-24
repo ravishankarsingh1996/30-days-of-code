@@ -1,69 +1,22 @@
-# 30-days-of-code
+## 30-days-of-code-python
 
 
-#Day 1
+# Day 1
 
-#TODO Get all keywords in Python
+1. Python Keyword
 
-import keyword
+2. Yield keyword
 
-print("1. Python Keyword")
-
-print(keyword.kwlist, "\n")
-
-print("Total keyword count in python is: ", len(keyword.kwlist))
+3. Python Statement
 
 
-###################################################################
+# Day 2
 
-#Yield keyword
+4. Variables in python
 
-print("\n\n2. Yield keyword")
+5. Multiple Assignment
 
-## generator function
+6. Storage Location in Python
 
-def yieldFunction():
+7. Data Types in Python
 
-    for i in range(10):
-    
-        yield(i)
-    
-
-#print 
-
-print("Yeild generator function output:")
-
-for x in yieldFunction():
-    
-    print(x)
-
-###################################################################
-
-#Python Statement
-
-print("\n\n3. Python Statement")
-
-print("\nNew Line Character")
-
-a = 1 + 23 + \
-
-    21 + 2 + \
-    
-    9
-
-print("Output:",a,"")
-
-
-print("\nLine Continuation Character")
-
-a = (1 + 23 + 
-
-    21 + 2 + 
-    
-    9)
-
-print("Output:",a,"")
-
-print("\nMultiple statement in single line using ';'")
-
-a = 20; b = 21; c = 12; print(a,""); print(b+c,"")
