@@ -18,6 +18,7 @@
 
 6. Storage Location in Python
 
+# Day 3
 7. Data Types in Python
 
     - List
