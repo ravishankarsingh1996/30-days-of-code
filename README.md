@@ -20,3 +20,8 @@
 
 7. Data Types in Python
 
+    - List
+    - Tupple
+    - Set
+    - Dictionary
+
