@@ -27,4 +27,6 @@
     - Dictionary
 
 # Day 4
-8. Standard Input and Output
+8. Standard I/O
+    - Standard Output
+    - Standard Input
