@@ -26,3 +26,5 @@
     - Set
     - Dictionary
 
+# Day 4
+8. Standard Input and Output
