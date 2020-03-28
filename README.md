@@ -30,3 +30,15 @@
 8. Standard I/O
     - Standard Output
     - Standard Input
+    
+# Day 5
+9. Operators
+    - Arithmetic Operator
+    - Comparision Operator
+    - Logical Operator
+    - Bitwise Operator
+    - Assignment Operators
+# Day 6
+10. Special Operators
+    - Identity Operators
+    - MemberShip Operators
