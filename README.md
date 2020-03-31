@@ -38,7 +38,15 @@
     - Logical Operator
     - Bitwise Operator
     - Assignment Operators
+    
 # Day 6
 10. Special Operators
     - Identity Operators
     - MemberShip Operators
+    
+# Day 7
+11. Control Flow: if else
+    - if statement
+    - if else statement
+    - elif statement
+    - nested if statement
