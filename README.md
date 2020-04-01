@@ -1,4 +1,4 @@
-## 30-days-of-code-python
+## 30 Days of Code Python
 
 
 # Day 1
