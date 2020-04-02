@@ -1,4 +1,4 @@
-## 30-days-of-code-python
+## 30 Days of Code Python
 
 
 # Day 1
@@ -50,3 +50,14 @@
     - if else statement
     - elif statement
     - nested if statement
+
+# Day 8
+12. Contriol Flow: loop
+    - while loop
+    - While loop with else
+    - for loop
+    - Range function
+    - Range function with step size
+    - Range function : iterate over the list using index
+    - Range function : iterate over elements in the list
+    - for loop with else
