@@ -74,3 +74,4 @@
         - List Length
         - List Append
         - List Insert
+        - List Remove
