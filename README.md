@@ -66,3 +66,9 @@
 13. Control Flow: break and continue
     - break
     - continue
+
+# Day 10
+14. Data Structures
+    a. List
+        - List Creation
+        - List Length
