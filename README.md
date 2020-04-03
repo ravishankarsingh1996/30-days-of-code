@@ -72,3 +72,5 @@
     a. List
         - List Creation
         - List Length
+        - List Append
+        - List Insert
