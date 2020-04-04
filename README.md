@@ -75,3 +75,11 @@
         - Append
         - Insert
         - Remove
+# Day 11
+14. Data Structures
+     - List
+        - Append
+        - Extend
+        - Delete
+        - 'in' keyword
+        
