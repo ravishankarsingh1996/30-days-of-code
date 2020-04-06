@@ -83,3 +83,11 @@
         - Delete
         - 'in' keyword
         
+# Day 12
+14. Data Structures
+     - List
+        - Reverse
+        - Sorting
+        - String Split to create a list
+        - Slicing
+   
