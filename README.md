@@ -110,3 +110,10 @@
         - Membership
         - Length
         - Sort
+
+# Day 15
+15. Data Strcture: Tuples
+    - Tuple
+        - Max
+        - Min
+        - Sum
