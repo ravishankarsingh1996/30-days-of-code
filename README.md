@@ -90,4 +90,23 @@
         - Sorting
         - String Split to create a list
         - Slicing
-   
+# Day 13
+14. Data Structures
+    - List
+        - List extend using '+'
+        - Count
+        - Looping
+        - Comprehensions
+        - Nested List Comprehensions
+# Day 14
+15. Data Strcture: Tuples
+    - Tuple
+        - Creation
+        - Accessing Elements in Tuple
+        - Changing a tuple
+        - Deletion
+        - Count
+        - Index
+        - Membership
+        - Length
+        - Sort
