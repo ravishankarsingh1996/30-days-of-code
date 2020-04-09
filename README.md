@@ -99,7 +99,7 @@
         - Comprehensions
         - Nested List Comprehensions
 # Day 14
-15. Data Strcture: Tuples
+15. Data Strcture
     - Tuple
         - Creation
         - Accessing Elements in Tuple
@@ -112,14 +112,14 @@
         - Sort
 
 # Day 15
-15. Data Strcture: Tuples
+15. Data Strcture
     - Tuple
         - Max
         - Min
         - Sum
 
 # Day 16
-16. Data Strcture: Sets
+16. Data Strcture
     - Sets
         - Creation
         - Add element
