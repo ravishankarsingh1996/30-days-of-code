@@ -117,3 +117,14 @@
         - Max
         - Min
         - Sum
+
+# Day 16
+16. Data Strcture: Sets
+    - Sets
+        - Creation
+        - Add element
+        - Remove element
+            - Discard
+            - Remove
+            - Pop
+            - Clear
