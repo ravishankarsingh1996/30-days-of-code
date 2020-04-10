@@ -128,3 +128,15 @@
             - Remove
             - Pop
             - Clear
+
+# Day 17
+16. Data Strctures
+    - Sets
+        - Sets Operations
+            - union
+            - intersection
+            - difference
+            - symmetric difference
+            - issinset
+        - Frozen Sets
+            
