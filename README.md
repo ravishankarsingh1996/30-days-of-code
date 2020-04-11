@@ -140,3 +140,8 @@
             - issinset
         - Frozen Sets
             
+# Day 18
+16. Data Strctures
+    - Dictionary
+        - Creation
+        - Access
