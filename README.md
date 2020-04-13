@@ -141,7 +141,25 @@
         - Frozen Sets
             
 # Day 18
-16. Data Strctures
+17. Data Strctures
     - Dictionary
         - Creation
         - Access
+
+# Day 19
+17. Data Strctures
+    - Dictionary
+        - Add
+        - Modify
+        - Delete or Remove Element
+        
+# Day 20
+17. Data Strctures
+    - Dictionary
+        - Dictionary Methods
+            - copy
+            - fromkeys
+            - items
+            - keys
+            - values
+        - Dictionary Comprehension
