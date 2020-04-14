@@ -163,3 +163,10 @@
             - keys
             - values
         - Dictionary Comprehension
+
+# Day 21
+18. Strings
+    - Access
+    - Change or Delete
+    - Concatenation
+    - Iterating
