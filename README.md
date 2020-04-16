@@ -170,3 +170,13 @@
     - Change or Delete
     - Concatenation
     - Iterating
+
+# Day 22
+18. Strings
+    - String methods
+        - lower
+        - upper
+        - split
+        - join
+        - find
+        - replace
