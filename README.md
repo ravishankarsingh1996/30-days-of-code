@@ -180,3 +180,10 @@
         - join
         - find
         - replace
+# Day 23
+19. Function
+    - Introduction
+        - Function Call
+        - Doc String
+        - return Statement
+        - Scope and LifeTime of a variable
