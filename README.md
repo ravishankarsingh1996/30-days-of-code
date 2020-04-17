@@ -187,3 +187,12 @@
         - Doc String
         - return Statement
         - Scope and LifeTime of a variable
+
+# day 24
+19. Function
+    - Types of Function
+        - Build-in Function
+            - abs
+            - all
+            - divmod
+            - enumerate
