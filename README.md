@@ -188,7 +188,7 @@
         - return Statement
         - Scope and LifeTime of a variable
 
-# day 24
+# Day 24
 19. Function
     - Types of Function
         - Build-in Function
@@ -198,3 +198,11 @@
             - enumerate
             - filter
             
+# Day 25
+19. Function
+    - Types of Function
+        - Build-in Function
+            - filter
+            - isinstance
+            - map
+            - reduce
