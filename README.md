@@ -211,3 +211,6 @@
 19. Function
     - Types of Function
         - User-defined Function
+            - add 
+            - subtract
+            - multiply
