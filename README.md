@@ -206,3 +206,8 @@
             - isinstance
             - map
             - reduce
+
+# Day 26
+19. Function
+    - Types of Function
+        - User-defined Function
