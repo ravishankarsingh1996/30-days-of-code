@@ -214,3 +214,11 @@
             - add 
             - subtract
             - multiply
+
+# Day 27
+19. Function
+    - Forms of Argument
+        - Normal
+        - Default 
+        - Keyword 
+        - Arbitary
