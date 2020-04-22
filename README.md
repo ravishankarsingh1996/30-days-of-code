@@ -222,3 +222,8 @@
         - Default 
         - Keyword 
         - Arbitary
+
+# Day 28
+19. Function
+    - Recursive Function
+    - Lambda Function
