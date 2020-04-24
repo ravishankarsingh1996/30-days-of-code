@@ -1,2 +1,0 @@
-This is first text from python file I/O
-Second line
