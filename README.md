@@ -233,3 +233,17 @@
     - import
     - from...import
   
+# Day 30
+21. File 
+    - File Handling
+        - Open a file
+        - Read or write
+        - Close file
+        - Rename a file
+        - Delete a file
+    - Python Directory and file Management
+        - Get current directory
+        - change directory
+        - List files and sub directories
+        - Make new directory
+        - Remove directory
